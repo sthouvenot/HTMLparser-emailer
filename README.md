@@ -30,3 +30,6 @@ If your ChromeDriver is outdated (the version must match your current versoin of
 - Download the updated ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 - Ensure you download "chromedriver" and not "chrome".
 - Replace the existing chromedriver file in the project directory with the downloaded one.
+
+### ToDo
+- Paid rotating proxy server to avoid IP detection would be ideal. 
