@@ -17,7 +17,7 @@ To run the project:
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Follow setup instructions above. 
 4. Run the command: `python3 webscraper-mailer.py`
-5. If error, determine if it is a dependency or chromedriver error and fix by following the instrctuions below:
+5. If an error occurs, determine if it is a dependency or chromedriver issue and fix by following the instructions below:
 
 ### Dependencies
 If your computer is outdated or lacks the necessary dependencies:
