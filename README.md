@@ -1,7 +1,7 @@
-# webscraper-mailer
+# webscraper-mailer<br/>
 
-In python file:
-Edit settings
+In python file:<br/>
+Edit settings<br/>
 Edit email_condition function 
 
 To Run: /n
