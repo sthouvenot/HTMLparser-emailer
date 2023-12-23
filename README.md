@@ -20,7 +20,7 @@ To run the project:
 5. If an error occurs, determine if it is a dependency or chromedriver issue and fix by following the instructions below:
 
 ### Dependencies
-If your computer is outdated or lacks the necessary dependencies:
+If your computer lacks the necessary dependencies:
 - Install Python by typing `python3` in the terminal and following the installation prompts.
 - Install required packages by typing: `pip install requests beautifulsoup4 selenium`
 
