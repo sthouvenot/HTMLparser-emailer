@@ -1,19 +1,29 @@
-# webscraper-mailer<br/>
+# WebScraper-Mailer
 
-In python file:<br/>
-Edit settings<br/>
-Edit email_condition function <br/>
+## Overview
+This Python project is designed to scrape web pages for specific content and send email notifications based on certain conditions.
 
-To Run: <br/>
-Clone this and cmd prompt to directory <br/>
-Type "python3 webscraper-mailer.py"<br/>
+## Usage
 
---If computer is outdated: <br/>
-Type "python3" to install python <br/>
-Type "pip install requests beautifulsoup4"<br/>
-Type "pip install selenium" <br/>
+### Python File Structure
+- **Edit settings:** Modify settings in the Python file to customize the scraping and email functionality.
+- **Edit email_condition function:** Customize the logic in the `email_condition` function to define when emails should be sent.
 
---If chromedriver is outdated <br/>
-Download updated chromedriver here : https://googlechromelabs.github.io/chrome-for-testing/ . Make sure to download "chromedriver" and not "chrome". <br/>
-Replace the chromedriver file in this directory with your downloaded one. <br/>
+### Running the Project
+To run the project:
+1. Clone this repository to your local machine.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the command:
 
+### Dependencies
+If your computer is outdated or lacks the necessary dependencies:
+- Install Python by typing `python3` in the terminal and following the installation prompts.
+- Install required packages by typing:
+
+- ### ChromeDriver
+If your ChromeDriver is outdated:
+- Download the updated ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
+- Ensure you download "chromedriver" and not "chrome".
+- Replace the existing chromedriver file in the project directory with the downloaded one.
+
+Feel free to customize and extend this project according to your needs!
