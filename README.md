@@ -18,7 +18,7 @@ To run the project:
 ### Dependencies
 If your computer is outdated or lacks the necessary dependencies:
 - Install Python by typing `python3` in the terminal and following the installation prompts.
-- Install required packages by typing:
+- Install required packages by typing: `pip install requests beautifulsoup4 selenium`
 
 - ### ChromeDriver
 If your ChromeDriver is outdated:
