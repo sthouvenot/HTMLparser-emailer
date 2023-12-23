@@ -13,7 +13,7 @@ This Python project is designed to scrape web pages for specific content and sen
 To run the project:
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the command:
+3. Run the command: `python3 webscraper-mailer.py`
 
 ### Dependencies
 If your computer is outdated or lacks the necessary dependencies:
