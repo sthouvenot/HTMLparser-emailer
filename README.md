@@ -2,6 +2,7 @@
 
 ## Overview
 This Python project is designed to scrape web pages for specific content and send email notifications based on certain conditions.
+It is built with the assumption that Chrome will be used for web scraping and Gmail for sending emails.
 
 ## Usage
 
