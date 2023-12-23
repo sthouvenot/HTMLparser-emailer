@@ -20,10 +20,8 @@ If your computer is outdated or lacks the necessary dependencies:
 - Install Python by typing `python3` in the terminal and following the installation prompts.
 - Install required packages by typing: `pip install requests beautifulsoup4 selenium`
 
-- ### ChromeDriver
+### ChromeDriver
 If your ChromeDriver is outdated:
 - Download the updated ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 - Ensure you download "chromedriver" and not "chrome".
 - Replace the existing chromedriver file in the project directory with the downloaded one.
-
-Feel free to customize and extend this project according to your needs!
