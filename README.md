@@ -3,7 +3,7 @@
 ## Overview
 This Python project is designed to scrape web pages for specific content and send email notifications based on certain conditions.
 
-## Windows - Usage
+## Usage
 
 ### Setup Instructions
 - **Set up email:** Configure sender email for third-party access [here](https://myaccount.google.com/apppasswords) (requires 2FA enabled). Save your app password.
