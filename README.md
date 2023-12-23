@@ -26,7 +26,7 @@ If your computer lacks the necessary dependencies:
 - Install required packages by typing: `pip install requests beautifulsoup4 selenium`
 
 ### ChromeDriver
-If your ChromeDriver is outdated (The version must match your current versoin of chrome)
+If your ChromeDriver is outdated (the version must match your current versoin of chrome)
 - Download the updated ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 - Ensure you download "chromedriver" and not "chrome".
 - Replace the existing chromedriver file in the project directory with the downloaded one.
