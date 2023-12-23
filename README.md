@@ -1,4 +1,4 @@
-# WebScraper-Mailer
+# webscraper-mailer
 
 ## Overview
 This Python project is designed to scrape web pages for specific content and send email notifications based on certain conditions.
